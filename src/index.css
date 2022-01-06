@@ -11,3 +11,60 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* .App{
+  text-align: center;
+}
+
+.card {
+  width: 300px;
+  margin: 0px;
+  background: rgb(185, 183, 183);
+  border: 1px solid black;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.pic {
+  height: 400px;
+  width: 100%;
+  margin: 0px;
+  border-radius: 10px 10px 0 0;
+  margin-bottom: 0px;
+}
+
+.button {
+  margin: 10px 0 10px 0 ;
+  font-size: 15px;
+}
+
+h2 {
+  margin: 0px;
+  color: red;
+}
+
+.imdb{
+  margin: 0px;
+}
+
+.summary{
+  margin: 10px 0 0 0;
+}
+
+.link:visited {
+  color: red;
+}
+
+.link:hover {
+  color: green;
+  transform: scale(1.1);
+}
+
+.list{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+} */
+
