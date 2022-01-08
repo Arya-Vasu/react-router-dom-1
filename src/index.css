@@ -12,7 +12,7 @@ code {
     monospace;
 }
 
-/* .App{
+.App{
   text-align: center;
 }
 
@@ -46,7 +46,8 @@ h2 {
 }
 
 .imdb{
-  margin: 0px;
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .summary{
@@ -66,5 +67,15 @@ h2 {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-} */
+}
 
+form{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+}
+
+.toggle{
+  margin-top: 10px
+}
